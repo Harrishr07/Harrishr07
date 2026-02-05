@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=400&size=20&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=35&lines=Hello+There+I%27m+Harrish+R+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;M.Sc.+Theoretical+Computer+Science+%7C+PSG+College+of+Technology+%F0%9F%8C%90;Interested+in+Competitive+Programming+%F0%9F%8F%86"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00AAFF&center=true&vCenter=true&width=1100&height=45&lines=Hey+Everyone+I%27m+Harrish+R+%E2%9C%A8%F0%9F%92%BB;M.Sc.+Theoretical+Computer+Science+%F0%9F%8E%93,+PSG+College+of+Technology;Passionate+about+Algorithms+%26+AI+%F0%9F%9A%80"/>
   <br/>
 </h1>
 
