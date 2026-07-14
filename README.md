@@ -57,8 +57,8 @@
 ### ⚙️ ERP, Frameworks & DevOps
 
 <p align="left">
-<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERPNext-41B883?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERPNext-41B883?style=for-the-badge&logo=erpnext&logoColor=white"/>
 <img src="https://img.shields.io/badge/HRMS-00A86B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
