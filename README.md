@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00AAFF&center=true&vCenter=true&width=1400&height=45&lines=Hey+Everyone+I'm+Harrish+R+✨💻;M.Sc.+Theoretical+Computer+Science+🎓;ERPNext+Developer+%7C+Frappe+Framework+⚙️;Python+%7C+Java+%7C+React+%7C+SQL;Building+ERP+Solutions,+AI+Applications+%26+Automation+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00AAFF&center=true&vCenter=true&width=1200&height=45&lines=Hey+Everyone+I'm+Harrish+R;M.Sc.+Theoretical+Computer+Science;ERPNext+Developer+%7C+Frappe+Framework;Python+%7C+JavaScript+%7C+React;Building+Scalable+ERP+Applications"/>
   <br/>
 </h1>
 
