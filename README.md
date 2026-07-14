@@ -16,7 +16,7 @@
 
 ### 💻 Languages
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -26,11 +26,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<br/>
-
 ### 🌐 Web Development
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -38,51 +36,43 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-<br/>
-
 ### 🤖 AI & Data Science
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-008080?style=for-the-badge"/>
 </p>
-
-<br/>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-<br/>
+### ⚙️ ERP, Frameworks & DevOps
 
-### ⚙️ ERP & Frameworks
-
-<p>
-<img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ERPNext-41B883?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERPNext-41B883?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
 <img src="https://img.shields.io/badge/HRMS-00A86B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-<br/>
-
 ### 🛠️ Developer Tools
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spyder-FF3B30?style=for-the-badge&logo=spyderide&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeBlocks-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Developer-3C9443?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/PuTTY-607D8B?style=for-the-badge&logo=putty&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Linux_CLI-2C001E?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/emu8086-37FD12?style=for-the-badge&logo=windows95&logoColor=white"/>
@@ -92,7 +82,6 @@
 </p>
 
 <hr/>
-
 <h3> 💻 Workspace Specifications </h3>
 <div align="center">
   <img height="30" src="https://img.shields.io/badge/Lenovo-Yoga_Slim_6i-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
