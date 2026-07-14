@@ -65,63 +65,59 @@
 </div>
 
 <hr/>
-<hr/>
 
-<h3>🚀 Featured Projects</h3>
+<h2>🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
+### 🤖 AI Quiz App <img src="https://img.shields.io/badge/Mar%202026-2F80ED?style=flat-square"/>
 
-### 🤖 AI Quiz App
-**📅 March 2026**
+AI-powered quiz platform with **secure authentication**, **personalized quiz generation**, quiz history, and performance tracking. Users can create, attempt, and review quizzes while all data is securely managed through an integrated backend database.
 
-- 🔐 Secure authentication & user registration
-- 🧠 AI-powered personalized quiz generation
-- 📊 Quiz history and performance tracking
-- ⚡ Built with **Next.js, TypeScript & Modern Web Technologies**
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database-4479A1?style=flat-square"/>
+</p>
 
-</td>
+---
 
-<td width="50%">
+### 🩺 Survival Analysis System <img src="https://img.shields.io/badge/Dec%202025-00A86B?style=flat-square"/>
 
-### 🩺 Survival Analysis System
-**📅 December 2025**
+Medical survival prediction system that processes patient reports, builds **Cox Regression** models, simulates patient cohorts, and predicts cancer treatment outcomes through an interactive dashboard.
 
-- 📑 Medical report processing
-- 📈 Cox Regression & Survival Prediction
-- 🧬 Cancer treatment outcome analysis
-- ⚡ Built with **Streamlit, Pandas, Lifelines & Matplotlib**
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/Lifelines-008080?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 🛍️ Customer Segmentation <img src="https://img.shields.io/badge/Oct%202024-F2994A?style=flat-square"/>
 
-### 🛍️ Customer Segmentation
-**📅 October 2024**
+Machine learning project that performs **K-Means clustering** on mall customer data to identify customer segments based on age, annual income, and spending behavior. Results are visualized using PCA and ggplot2.
 
-- 👥 Customer clustering using **K-Means**
-- 📊 PCA & ggplot2 visualization
-- 💰 Spending pattern analysis
-- 📈 Business decision support
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r"/>
+<img src="https://img.shields.io/badge/K--Means-16A085?style=flat-square"/>
+<img src="https://img.shields.io/badge/PCA-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/ggplot2-E91E63?style=flat-square"/>
+</p>
 
-</td>
+---
 
-<td width="50%">
+### 💰 Monte Carlo Retirement Simulator <img src="https://img.shields.io/badge/Jan%202026-9B59B6?style=flat-square"/>
 
-### 💰 Monte Carlo Retirement Simulator
-**📅 January 2026**
+Probability-based retirement planning application running **5,000+ Monte Carlo simulations** to forecast investment outcomes with interactive financial visualizations.
 
-- 📉 5,000+ market simulations
-- 📈 Probability-based retirement planning
-- 🌐 Flask Web Application
-- ⚡ Built with **Flask, NumPy & Matplotlib**
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square"/>
+</p>
 
 <hr/>
 
