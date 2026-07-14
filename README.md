@@ -1,14 +1,12 @@
-<div align="center">
+<h1 align="center">
+  Hey Everyone, I'm Harrish R ✨
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=9999999&pause=9999999&color=00FF88&center=true&vCenter=true&repeat=false&width=950&height=80&lines=👋+Hey+Everyone,+I'm+Harrish+R"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=00FF88&center=true&vCenter=true&width=1300&height=60&lines=🎓+M.Sc.+Theoretical+Computer+Science+%7C+PSG+College+of+Technology;⚙️+ERPNext+Developer+%7C+Frappe+Framework;💻+Building+Scalable+ERP+Applications;🚀+Passionate+about+AI,+ML+%26+Software+Development"/>
-
-</div>
-<br>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1400&height=60&lines=M.Sc.+Theoretical+Computer+Science+🎓+%7C+PSG+College+of+Technology;ERPNext+Developer+%7C+Frappe+Framework+⚙️;Building+Scalable+ERP+Applications+💻;Passionate+about+AI,+Machine+Learning+%26+Algorithms+🚀"
+    alt="Typing SVG"
+  />
+</p>
 <hr/>
 <h3>📨Find Me On </h3>
 <div align="center">
