@@ -72,13 +72,6 @@
 <hr/>
 
 <h3>📊 GitHub Statistics</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harrishr07&show_icons=true&theme=tokyonight&hide_border=true&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harrishr07&layout=compact&theme=tokyonight&hide_border=true&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
 <br/>
 
 <div align="center">
@@ -90,7 +83,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harrishr07&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harrishr07&theme=merko&hide_border=true"/>
 
 </div>
 <hr/>
