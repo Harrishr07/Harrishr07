@@ -1,12 +1,10 @@
-<div align="center">
+<h1 align="center">
+  👋 Hey Everyone, I'm Harrish R
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1200&height=70&lines=👋+Hey+Everyone,+I'm+Harrish+R"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1200&height=60&lines=🎓+M.Sc.+Theoretical+Computer+Science+%7C+PSG+College+of+Technology;⚙️+ERPNext+Developer+%7C+Frappe+Framework;💻+Building+Scalable+ERP+Applications;🚀+AI+%7C+Machine+Learning+%7C+Algorithms"/>
-
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1200&height=60&lines=M.Sc.+Theoretical+Computer+Science+🎓+%7C+PSG+Tech;ERPNext+Developer+⚙️+%7C+Frappe+Framework;Building+Scalable+ERP+Applications+💻;Passionate+about+AI+%26+Machine+Learning+🚀"/>
+</h3>
 
 <br>
 
