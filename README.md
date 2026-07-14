@@ -176,7 +176,7 @@ Probability-based retirement planning application running **5,000+ Monte Carlo s
 
 <hr/>
 
-<h3 align="center">👀 Profile Visitors</h3>
+<h3 align="center">Profile Visitors</h3>
 
 <div align="center">
 
