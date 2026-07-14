@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harrishr07&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Harrishr07&theme=merko&hide_border=true"/>
 
 </div>
 <br/>
@@ -101,18 +101,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrishr07&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrishr07&theme=merko"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrishr07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrishr07&theme=merko"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrishr07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrishr07&theme=merko"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrishr07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrishr07&theme=merko"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrishr07&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrishr07&theme=merko&utcOffset=5.5"/>
 
 </div>
