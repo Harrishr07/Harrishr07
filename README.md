@@ -103,3 +103,24 @@
 <img src="https://raw.githubusercontent.com/Harrishr07/Harrishr07/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+<hr/>
+
+<h3>📋 GitHub Profile Summary</h3>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrishr07&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrishr07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrishr07&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrishr07&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrishr07&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
