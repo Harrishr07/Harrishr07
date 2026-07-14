@@ -65,7 +65,7 @@
 
 <h3> 📈 LeetCode Statistics </h3>
 <div align="center">
-  <img width="400" align="center" src="https://leetcard.jacoblin.cool/Harrishr07?theme=forest&font=Oxygen" />
+  <img width="400" align="center" src="https://leetcard.jacoblin.cool/Harrishr07?theme=dark&font=Oxygen" />
 </div>
 
 <hr/>
