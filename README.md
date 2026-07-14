@@ -69,3 +69,37 @@
 </div>
 
 <hr/>
+<hr/>
+
+<h3>📊 GitHub Statistics</h3>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harrishr07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrishr07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harrishr07&theme=tokyonight&hide_border=true"/>
+
+</div>
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harrishr07&theme=tokyo-night&hide_border=true"/>
+
+</div>
+<hr/>
+
+<h3>🐍 Contribution Snake</h3>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harrishr07/Harrishr07/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
