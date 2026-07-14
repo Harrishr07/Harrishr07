@@ -1,13 +1,16 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=34&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1800&height=90&lines=Hey+Everyone,+I'm+Harrish+R+✨;M.Sc.+Theoretical+Computer+Science+🎓+%7C+PSG+College+of+Technology;ERPNext+Developer+⚙️+%7C+Frappe+Framework;Building+Scalable+ERP+Applications+💻;Passionate+about+AI,+Machine+Learning+%26+Algorithms+🚀"
-    alt="Typing SVG"
-  />
-</h1>
+<div align="center">
 
-<br><br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1200&height=70&lines=👋+Hey+Everyone,+I'm+Harrish+R"/>
 
-<hr>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=1200&height=60&lines=🎓+M.Sc.+Theoretical+Computer+Science+%7C+PSG+College+of+Technology;⚙️+ERPNext+Developer+%7C+Frappe+Framework;💻+Building+Scalable+ERP+Applications;🚀+AI+%7C+Machine+Learning+%7C+Algorithms"/>
+
+</div>
+
+<br>
+
+<hr/>
 <h3>📨Find Me On </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/harrishr07">
