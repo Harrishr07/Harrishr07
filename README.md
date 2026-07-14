@@ -120,8 +120,12 @@
 
 </div>
 
+<hr/>
+
+<h3 align="center">👀 Profile Visitors</h3>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Harrishr07&label=Visitors&color=2ea043&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Harrishr07&label=Total%20Visitors&style=for-the-badge&color=2ea043"/>
 
 </div>
