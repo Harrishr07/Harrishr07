@@ -119,3 +119,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrishr07&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Harrishr07&label=Visitors&color=2ea043&style=for-the-badge"/>
+
+</div>
