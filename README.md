@@ -65,13 +65,71 @@
 </div>
 
 <hr/>
+<hr/>
+
+<h3>🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Quiz App
+**📅 March 2026**
+
+- 🔐 Secure authentication & user registration
+- 🧠 AI-powered personalized quiz generation
+- 📊 Quiz history and performance tracking
+- ⚡ Built with **Next.js, TypeScript & Modern Web Technologies**
+
+</td>
+
+<td width="50%">
+
+### 🩺 Survival Analysis System
+**📅 December 2025**
+
+- 📑 Medical report processing
+- 📈 Cox Regression & Survival Prediction
+- 🧬 Cancer treatment outcome analysis
+- ⚡ Built with **Streamlit, Pandas, Lifelines & Matplotlib**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛍️ Customer Segmentation
+**📅 October 2024**
+
+- 👥 Customer clustering using **K-Means**
+- 📊 PCA & ggplot2 visualization
+- 💰 Spending pattern analysis
+- 📈 Business decision support
+
+</td>
+
+<td width="50%">
+
+### 💰 Monte Carlo Retirement Simulator
+**📅 January 2026**
+
+- 📉 5,000+ market simulations
+- 📈 Probability-based retirement planning
+- 🌐 Flask Web Application
+- ⚡ Built with **Flask, NumPy & Matplotlib**
+
+</td>
+</tr>
+</table>
+
+<hr/>
 
 <h3> 📈 LeetCode Statistics </h3>
 <div align="center">
   <img width="400" align="center" src="https://leetcard.jacoblin.cool/Harrishr07?theme=dark&font=Oxygen" />
 </div>
 
-<hr/>
 <hr/>
 
 <h3>📊 GitHub Statistics</h3>
